@@ -1,18 +1,3 @@
-#Ramazan Karakılınç
-#ramazankarakilinc06@gmail.com
-
-#Ayten ARTAN YILDIRIM
-#yildirimaytn@gmail.com
-
-#Nazmi Tunahan BOLAT
-#nazmitunahanbolat@gmail.com
-
-#Cemal Akif Özateş
-#cemalakifozates@gmail.com
-
-#Atakan Fethi PALA
-#atakanpala98@gmail.com
-
 from tkinter import *
 from tkinter import messagebox
 import datetime
